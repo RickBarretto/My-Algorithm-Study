@@ -1,15 +1,12 @@
 // C Example:
 
-
-// DIF
-// C :
-
 # include <stdio.h>
 
 int main(){
 
-    int D,d,R,Q;
-    printf("Say two numbers, that the firs will be divided by the second for discover the rest of solution.\n");
+    // defining The Dividend, Divisor, Rest and Quotient
+    int D, d, R, Q;
+    printf("Say two numbers, that the first will be divided by the second for discover the rest of solution.\n");
 
     scanf("%d %d",&D,&d);
     printf("\n");
